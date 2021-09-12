@@ -1,0 +1,643 @@
+[main] 2021-09-11 16:37:51 INFO  com.app.dao.impl.LoginDAOImpl  - Please Register Before Logging In 
+[main] 2021-09-11 16:38:21 INFO  com.app.dao.impl.LoginDAOImpl  - Please Register Before Logging In 
+[main] 2021-09-11 16:43:11 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-11 16:43:11 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 16:43:12 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-11 16:43:12 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-11 16:43:12 INFO  com.app.Main  - Name :
+[main] 2021-09-11 16:43:17 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-11 16:43:19 INFO  com.app.Main  - UserName :
+[main] 2021-09-11 16:43:21 INFO  com.app.Main  - Password :
+[main] 2021-09-11 16:43:23 ERROR com.app.dao.impl.RegistrationDAOImpl  - java.sql.SQLException: Column 'name' not found.
+[main] 2021-09-11 16:43:23 WARN  com.app.Main  - com.app.exception.BusinessException: Internal error occured contact sysadmin
+[main] 2021-09-11 16:43:23 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 16:46:17 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-11 16:46:17 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 16:46:19 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-11 16:46:19 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-11 16:46:19 INFO  com.app.Main  - Name :
+[main] 2021-09-11 16:46:22 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-11 16:46:25 INFO  com.app.Main  - UserName :
+[main] 2021-09-11 16:46:26 INFO  com.app.Main  - Password :
+[main] 2021-09-11 16:46:28 ERROR com.app.dao.impl.RegistrationDAOImpl  - java.sql.SQLException: Column 'name' not found.
+[main] 2021-09-11 16:46:28 WARN  com.app.Main  - com.app.exception.BusinessException: Internal error occured contact sysadmin
+[main] 2021-09-11 16:46:28 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 16:48:03 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-11 16:48:03 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 16:48:07 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-11 16:48:07 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-11 16:48:07 INFO  com.app.Main  - Name :
+[main] 2021-09-11 16:48:09 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-11 16:48:10 INFO  com.app.Main  - UserName :
+[main] 2021-09-11 16:48:11 INFO  com.app.Main  - Password :
+[main] 2021-09-11 16:48:13 ERROR com.app.dao.impl.RegistrationDAOImpl  - java.sql.SQLException: Column 'name' not found.
+[main] 2021-09-11 16:48:13 WARN  com.app.Main  - com.app.exception.BusinessException: Internal error occured contact sysadmin
+[main] 2021-09-11 16:48:13 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 17:04:16 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-11 17:04:16 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 17:04:17 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-11 17:04:17 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-11 17:04:17 INFO  com.app.Main  - Name :
+[main] 2021-09-11 17:04:19 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-11 17:04:20 INFO  com.app.Main  - UserName :
+[main] 2021-09-11 17:04:21 INFO  com.app.Main  - Password :
+[main] 2021-09-11 17:04:23 ERROR com.app.dao.impl.RegistrationDAOImpl  - java.sql.SQLException: Column 'name' not found.
+[main] 2021-09-11 17:04:23 WARN  com.app.Main  - com.app.exception.BusinessException: Internal error occured contact sysadmin
+[main] 2021-09-11 17:04:23 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 17:10:03 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-11 17:10:03 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 17:10:05 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-11 17:10:05 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-11 17:10:05 INFO  com.app.Main  - Name :
+[main] 2021-09-11 17:10:07 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-11 17:10:08 INFO  com.app.Main  - UserName :
+[main] 2021-09-11 17:10:08 INFO  com.app.Main  - Password :
+[main] 2021-09-11 17:13:12 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-11 17:13:12 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-11 17:13:15 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-11 17:13:15 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-11 17:13:15 INFO  com.app.Main  - Name :
+[main] 2021-09-11 17:13:17 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-11 17:13:17 INFO  com.app.Main  - UserName :
+[main] 2021-09-11 17:13:18 INFO  com.app.Main  - Password :
+[main] 2021-09-11 17:13:20 ERROR com.app.dao.impl.RegistrationDAOImpl  - java.sql.SQLException: Column 'name' not found.
+[main] 2021-09-11 17:13:20 WARN  com.app.Main  - com.app.exception.BusinessException: Internal error occured contact sysadmin
+[main] 2021-09-11 17:13:20 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:39:38 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 09:39:38 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:39:40 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 09:39:40 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 09:39:40 INFO  com.app.Main  - Name :
+[main] 2021-09-12 09:39:43 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 09:39:44 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 09:39:46 INFO  com.app.Main  - Password :
+[main] 2021-09-12 09:39:47 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 09:39:47 INFO  com.app.Main  - 
+[main] 2021-09-12 09:39:47 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:46:02 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 09:46:02 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:46:04 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 09:46:04 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 09:46:04 INFO  com.app.Main  - Name :
+[main] 2021-09-12 09:46:09 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 09:46:10 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 09:46:11 INFO  com.app.Main  - Password :
+[main] 2021-09-12 09:46:13 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 09:46:13 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:47:05 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 09:47:05 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:47:07 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 09:47:07 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 09:47:07 INFO  com.app.Main  - Name :
+[main] 2021-09-12 09:47:09 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 09:47:10 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 09:47:11 INFO  com.app.Main  - Password :
+[main] 2021-09-12 09:47:12 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 09:47:12 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:52:38 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 09:52:38 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:52:40 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 09:52:40 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 09:52:40 INFO  com.app.Main  - Name :
+[main] 2021-09-12 09:52:41 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 09:52:44 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 09:52:46 INFO  com.app.Main  - Password :
+[main] 2021-09-12 09:52:47 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 09:54:20 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 09:54:20 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 09:54:24 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 09:54:24 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 09:54:24 INFO  com.app.Main  - Name :
+[main] 2021-09-12 09:54:25 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 09:54:26 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 09:54:27 INFO  com.app.Main  - Password :
+[main] 2021-09-12 09:54:28 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 09:54:28 INFO  com.app.Main  - Customer details: 
+[main] 2021-09-12 09:54:28 INFO  com.app.Main  - com.app.service.impl.CustomerServiceImpl@34f5090e
+[main] 2021-09-12 09:54:28 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 10:00:27 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 10:00:27 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 10:00:28 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 10:00:28 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 10:00:28 INFO  com.app.Main  - Name :
+[main] 2021-09-12 10:00:30 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 10:00:31 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 10:00:32 INFO  com.app.Main  - Password :
+[main] 2021-09-12 10:00:33 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 10:00:33 INFO  com.app.Main  - Customer details: 
+[main] 2021-09-12 10:00:33 INFO  com.app.Main  - com.app.service.impl.CustomerServiceImpl@34f5090e
+[main] 2021-09-12 10:00:33 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 10:01:34 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 10:01:34 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 10:01:36 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 10:01:36 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 10:01:36 INFO  com.app.Main  - Name :
+[main] 2021-09-12 10:01:38 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 10:01:39 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 10:01:40 INFO  com.app.Main  - Password :
+[main] 2021-09-12 10:01:42 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 10:01:42 INFO  com.app.Main  - Customer details: 
+[main] 2021-09-12 10:01:42 INFO  com.app.Main  - Customers [custId=0, name=ws, mailId=ws, username=ws, password=ws]
+[main] 2021-09-12 10:01:42 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 10:30:59 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 11:25:14 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 11:25:14 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 11:25:16 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 11:25:16 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 11:25:16 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 11:25:22 INFO  com.app.Main  - Password :
+[main] 2021-09-12 11:25:26 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 11:25:26 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 11:25:30 INFO  com.app.Main  - Orders [orderId=122, custId=2, Pid=p9, Status=null, totalPrice=90.0]
+[main] 2021-09-12 11:25:30 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 11:30:35 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 11:30:35 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 11:30:36 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 11:30:36 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 11:30:36 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 11:30:42 INFO  com.app.Main  - Password :
+[main] 2021-09-12 11:30:44 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 11:30:44 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 11:30:50 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 11:33:30 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 11:33:30 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 11:33:33 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 11:33:33 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 11:33:33 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 11:33:36 INFO  com.app.Main  - Password :
+[main] 2021-09-12 11:33:38 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 11:33:38 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 11:33:41 INFO  com.app.service.impl.CustomerServiceImpl  - Enter Order ID to update
+[main] 2021-09-12 11:33:53 INFO  com.app.Main  - Order Placed
+[main] 2021-09-12 11:33:53 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 11:49:33 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 11:49:33 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 11:49:36 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 11:49:36 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 11:49:36 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 11:49:39 INFO  com.app.Main  - Password :
+[main] 2021-09-12 11:49:40 INFO  com.app.Main  - 1 --> Add Products 2 --> Update Order History 3 --> Search Customer 4 --> Log Out 
+[main] 2021-09-12 11:55:16 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 11:55:16 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 11:55:17 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 11:55:17 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 11:55:17 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 11:55:20 INFO  com.app.Main  - Password :
+[main] 2021-09-12 11:55:22 INFO  com.app.Main  - 1 --> Add Products 2 --> Update Order History 3 --> Search Customer 4 --> Log Out 
+[main] 2021-09-12 11:55:23 INFO  com.app.service.impl.StaffServiceImpl  - Enter order ID: 
+[main] 2021-09-12 11:55:33 INFO  com.app.service.impl.StaffServiceImpl  - Do you want to update another order? (Y/N)
+[main] 2021-09-12 11:55:37 INFO  com.app.Main  - Order Updated
+[main] 2021-09-12 11:55:37 INFO  com.app.Main  - 1 --> Add Products 2 --> Update Order History 3 --> Search Customer 4 --> Log Out 
+[main] 2021-09-12 12:04:03 INFO  com.app.service.impl.StaffServiceImpl  - Enter order ID: 
+[main] 2021-09-12 12:04:12 INFO  com.app.service.impl.StaffServiceImpl  - Do you want to update another order? (Y/N)
+[main] 2021-09-12 12:04:15 INFO  com.app.service.impl.StaffServiceImpl  - Please Enter The Product Details To Add The Product
+[main] 2021-09-12 12:04:15 INFO  com.app.service.impl.StaffServiceImpl  - Enter Product id: 
+[main] 2021-09-12 12:04:27 INFO  com.app.service.impl.StaffServiceImpl  - Enter Product Name: 
+[main] 2021-09-12 12:04:30 INFO  com.app.service.impl.StaffServiceImpl  - Enter Product Price: 
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 130	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - pen	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 10.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 3	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - s	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 55.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p1	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - aaa	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 150.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p10	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - jjj	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 120.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p14	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - ggf	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 44.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p15	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - cvb	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 334.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p16	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - ddds	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 345.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p17	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - dfg	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 233.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p18	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - wer	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 333.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p2	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - bbb	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 100.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p20	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - ball	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 30.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p21	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - bat	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 50.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p22	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - mouse	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 100.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p3	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - ccc	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 120.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p4	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - ddd	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 80.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p5	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - eee	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 95.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p6	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - fff	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 110.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p7	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - ggg	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 140.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p8	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - hhh	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 80.0
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - p9	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - iii	
+[main] 2021-09-12 12:04:32 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - 90.0
+[main] 2021-09-12 12:26:38 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:26:38 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:26:40 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 12:26:40 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 12:26:40 INFO  com.app.Main  - Name :
+[main] 2021-09-12 12:26:44 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 12:26:46 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:26:47 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:26:48 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 12:26:48 INFO  com.app.Main  - Customer details: 
+[main] 2021-09-12 12:26:48 INFO  com.app.Main  - Customers [custId=0, name=aaa, mailId=aaa, username=aaa, password=aaa]
+[main] 2021-09-12 12:26:48 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:26:54 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:26:54 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:26:54 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:26:56 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:26:57 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:26:57 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:30:18 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:30:18 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:30:19 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:30:19 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:30:19 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:30:21 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:30:22 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:30:22 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:30:43 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:30:43 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:30:45 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:30:45 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:30:45 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:30:47 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:30:48 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:30:48 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:31:55 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:31:55 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:31:58 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:31:58 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:31:58 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:31:59 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:32:00 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:32:00 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:33:22 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:33:22 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:33:24 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:33:24 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:33:24 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:33:27 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:33:28 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:33:28 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:34:08 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:34:08 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:34:09 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:34:09 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:34:09 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:34:10 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:34:12 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:34:12 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:35:36 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:35:36 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:35:37 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:35:37 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:35:37 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:35:38 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:35:40 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:35:40 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:36:59 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:36:59 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:37:01 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:37:01 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:37:01 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:37:03 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:37:04 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:37:04 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:37:53 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:37:53 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:37:54 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:37:54 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:37:54 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:37:57 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:37:58 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:37:58 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:38:16 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:38:16 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:38:17 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:38:17 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:38:17 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:38:18 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:38:20 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:38:20 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:38:34 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:38:34 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:38:37 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:38:37 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:38:37 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:38:39 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:38:40 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:38:40 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:39:28 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:39:28 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:39:30 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:39:30 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:39:30 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:39:33 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:39:35 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:39:35 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:42:00 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:42:00 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:42:02 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:42:02 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:42:02 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:42:05 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:42:06 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:42:06 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:42:27 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:42:27 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:42:29 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:42:29 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:42:29 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:42:31 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:42:32 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:42:32 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:42:50 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:44:07 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:44:07 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:44:11 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:44:11 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:44:11 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:44:12 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:44:14 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:44:14 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:44:23 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:45:14 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:45:14 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:45:15 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:45:15 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:45:15 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:45:17 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:45:18 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:45:18 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:45:25 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:51:27 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:51:27 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:51:32 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 12:51:32 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 12:51:32 INFO  com.app.Main  - Name :
+[main] 2021-09-12 12:51:41 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:51:41 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:51:42 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:51:42 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:51:42 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:51:44 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:51:45 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:51:45 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:51:57 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:52:22 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:52:22 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:52:24 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:52:24 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:52:24 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:52:26 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:52:27 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:52:27 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:52:34 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:53:41 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:53:41 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:53:43 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:53:43 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:53:43 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:53:43 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:53:45 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:53:45 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:53:58 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:55:38 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:55:38 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:55:39 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:55:39 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:55:39 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:55:40 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:55:42 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:55:42 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:55:59 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:57:09 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:57:09 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:57:11 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:57:11 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:57:11 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:57:12 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:57:14 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:57:14 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:57:17 WARN  com.app.Main  - 
+[main] 2021-09-12 12:57:17 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:57:24 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:57:24 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:57:26 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:57:26 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:57:26 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:57:27 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:57:28 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:57:29 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:57:38 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:59:20 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 12:59:20 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 12:59:22 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 12:59:22 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 12:59:22 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 12:59:23 INFO  com.app.Main  - Password :
+[main] 2021-09-12 12:59:25 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 12:59:25 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 12:59:44 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:01:52 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 13:01:52 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 13:01:54 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 13:01:54 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 13:01:54 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 13:01:56 INFO  com.app.Main  - Password :
+[main] 2021-09-12 13:01:57 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 13:01:57 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:02:02 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:03:28 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 13:03:28 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 13:03:34 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 13:03:34 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 13:03:34 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 13:03:34 INFO  com.app.Main  - Password :
+[main] 2021-09-12 13:03:36 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 13:03:36 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:03:41 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:05:59 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 13:05:59 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 13:06:01 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 13:06:01 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 13:06:01 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 13:06:02 INFO  com.app.Main  - Password :
+[main] 2021-09-12 13:06:04 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 13:06:04 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:06:15 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:07:17 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 13:07:17 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 13:07:54 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 13:07:54 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 13:07:56 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 13:07:56 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 13:07:56 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 13:07:57 INFO  com.app.Main  - Password :
+[main] 2021-09-12 13:07:59 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 13:07:59 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 13:07:59 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:08:35 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 13:08:35 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 13:08:36 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 13:08:36 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 13:08:36 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 13:08:37 INFO  com.app.Main  - Password :
+[main] 2021-09-12 13:08:39 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 13:08:39 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 13:08:39 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:08:48 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 13:08:48 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 13:09:03 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 13:09:03 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:09:01 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 17:09:01 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 17:09:04 INFO  com.app.Main  - --------Registeration--------
+[main] 2021-09-12 17:09:04 INFO  com.app.Main  - Please Enter Your Details To Register YourSelf
+[main] 2021-09-12 17:09:04 INFO  com.app.Main  - Name :
+[main] 2021-09-12 17:09:06 INFO  com.app.Main  - Mail Id :
+[main] 2021-09-12 17:09:08 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 17:09:09 INFO  com.app.Main  - Password :
+[main] 2021-09-12 17:09:11 INFO  com.app.dao.impl.RegistrationDAOImpl  - SuccessFully Registered!
+[main] 2021-09-12 17:09:11 INFO  com.app.Main  - Customer details: 
+[main] 2021-09-12 17:09:11 INFO  com.app.Main  - Customers [custId=0, name=aaa, mailId=aaa, username=aaa, password=aaa]
+[main] 2021-09-12 17:09:11 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 17:09:23 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 17:09:23 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 17:09:23 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 17:09:25 INFO  com.app.Main  - Password :
+[main] 2021-09-12 17:09:26 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 17:09:26 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:09:26 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:09:46 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:09:46 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:10:53 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 17:10:53 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 17:10:55 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 17:10:55 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 17:10:55 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 17:10:56 INFO  com.app.Main  - Password :
+[main] 2021-09-12 17:10:58 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 17:10:58 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:10:58 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:11:20 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:11:20 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:12:05 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 17:12:05 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 17:12:06 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 17:12:06 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 17:12:06 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 17:12:08 INFO  com.app.Main  - Password :
+[main] 2021-09-12 17:12:11 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 17:12:11 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:12:11 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:12:13 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:12:13 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:13:28 WARN  com.app.Main  - Cannot invoke "String.trim()" because "in" is null
+[main] 2021-09-12 17:13:28 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 17:23:19 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 17:23:19 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 17:23:21 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 17:23:21 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 17:23:21 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 17:23:22 INFO  com.app.Main  - Password :
+[main] 2021-09-12 17:23:24 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 17:23:24 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:23:24 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:23:36 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:23:36 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:25:14 INFO  com.app.Main  - -----------------Welcome To Shopping App------------------
+[main] 2021-09-12 17:25:14 INFO  com.app.Main  - 1 --> Register	2 --> Login	3 --> Exit
+[main] 2021-09-12 17:25:17 INFO  com.app.Main  - --------Login--------
+[main] 2021-09-12 17:25:17 INFO  com.app.Main  - Please Enter Your Details To Login
+[main] 2021-09-12 17:25:17 INFO  com.app.Main  - UserName :
+[main] 2021-09-12 17:25:18 INFO  com.app.Main  - Password :
+[main] 2021-09-12 17:25:20 INFO  com.app.Main  - Login Successful!
+[main] 2021-09-12 17:25:20 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:25:20 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
+[main] 2021-09-12 17:25:31 INFO  com.app.dao.impl.CustomerSearchDAOImpl  - order table updated
+[main] 2021-09-12 17:25:31 INFO  com.app.Main  - -------------Products List--------------
+[main] 2021-09-12 17:25:31 INFO  com.app.Main  - 
+1 --> Add To Cart 2 --> View Order History 3 --> Update Order Status 4 --> Log Out 
