@@ -15,26 +15,28 @@ The project is totally a java based maven application complete with junit for te
 <li>Log4j</li>
 <li>Junit</li>
   
-<li>SpringToolSuite, Git</li>
+<li>SpringToolSuite</li>
+<li>Git</li>
 </ol>
 
 <h2>Test Cases</h2>
+<ol>
+<li>As an user, I can login.</li></br>
+<li>As a user, I can logout of my session.</li></br>
   
-|1|As an user, I can login.
-|11|As a user, I can logout of my session.
+<li>As a employee, I can add a new product.</li></br>
+<li>As a employee, I can mark the status of an order as shipped.</li></br>
+<li>As a employee, he can search customer by various filters like email, id, name, orderid etc.</li></br>
   
-|2|As a employee, I can add a new product.
-|8|As a employee, I can mark the status of an order as shipped.
-|12|As a employee, he can search customer by various filters like email, id, name, orderid etc.
-  
-|3|As a customer, I can signup using my email, first name, last name and password.
-|4|As a customer, I can view the list of products with price.
-|5|As a customer, I can add a product to cart.
-|6|As a customer, I can view the cart with product list and total.
-|7|As a customer, I can place orders on the items in cart. Each product in the cart becomes an individual order.
-|9|As a customer, I can mark the order as received.
-|10|As a customer, I can view all my orders and it's status.
+<li>As a customer, I can signup using my email, first name, last name and password.</li></br>
+<li>As a customer, I can view the list of products with price.</li></br>
+<li>As a customer, I can add a product to cart.</li></br>
+<li>As a customer, I can view the cart with product list and total.</li></br>
+<li>As a customer, I can place orders on the items in cart. Each product in the cart becomes an individual order.</li></br>
+<li>As a customer, I can mark the order as received.</li></br>
+<li>As a customer, I can view all my orders and it's status.</li></br>
+</ol>
 
-<h2>Contributer</h2>
+<h2>Sole Contributer</h2>
 KM Keerthika
 
